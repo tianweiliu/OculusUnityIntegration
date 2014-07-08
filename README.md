@@ -1,7 +1,5 @@
-OculusUnityIntegration
-======================
-
 Oculus Rift Unity Integration with Audience Camera
+======================
 Version 0.2.1
 
 Installation: (Installation process is the same as original Oculus Unity integration)
