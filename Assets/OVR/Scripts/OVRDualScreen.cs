@@ -8,6 +8,10 @@ public class OVRDualScreen : MonoBehaviour {
 	private Camera audienceCam = null;
 
 	void Start () {
+
+		Screen.lockCursor = true;
+		Screen.showCursor = false;
+
 		// Aquire and scale the cameras
 		var audience = transform.FindChild ("CameraAudience");
 		if (audience)
