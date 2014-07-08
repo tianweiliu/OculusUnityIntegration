@@ -13,6 +13,7 @@ Usage:
 - Publish as settings shown in screenshot
 
 ![screen shot 2014-06-24 at 2 57 51 pm](https://cloud.githubusercontent.com/assets/3334163/3380278/1ef82bfc-fc02-11e3-89dd-2f7731f1c19b.png)
+
 (Set resolution to 3840 * 1080 if you are running Oculus Rift on 1920 * 1080)
 
 - Set Oculus Rift as "Extended" and to the left or right of the audience/main display
